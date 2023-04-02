@@ -13,3 +13,4 @@ Here are my solutions to Hackerrank problems.
 |            [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)            |          [Staircases.java](./src/main/java/problemSolving/Staircases.java)          |
 |          [MiniMaxSum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)          |          [MiniMaxSum.java](./src/main/java/problemSolving/MiniMaxSum.java)          |
 | [BirthdayCakeCandles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [BirthdayCakeCandles.java](./src/main/java/problemSolving/BirthdayCakeCandles.java) |
+|      [TimeConversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)       |      [TimeConversion.java](./src/main/java/problemSolving/TimeConversion.java)      |

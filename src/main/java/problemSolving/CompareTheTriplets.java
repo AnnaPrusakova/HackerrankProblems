@@ -1,9 +1,6 @@
 package problemSolving;
-import java.io.*;
+
 import java.util.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toList;
 
 /*
 * Task: Alice and Bob each created one problem for HackerRank.
@@ -24,30 +21,6 @@ Given a and b, determine their respective comparison points.
 */
 
 public class CompareTheTriplets {
-  public static void main(String[] args) throws IOException {
-    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-    BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
-
-    List<Integer> a = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
-        .map(Integer::parseInt)
-        .collect(toList());
-
-    List<Integer> b = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
-        .map(Integer::parseInt)
-        .collect(toList());
-
-    List<Integer> result = compareTriplets(a, b);
-
-    bufferedWriter.write(
-        result.stream()
-            .map(Object::toString)
-            .collect(joining(" "))
-            + "\n"
-    );
-
-    bufferedReader.close();
-    bufferedWriter.close();
-  }
 
   public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
     List<Integer> resultList = new ArrayList<>();

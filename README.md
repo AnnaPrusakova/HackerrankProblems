@@ -16,3 +16,4 @@ Here are my solutions to Hackerrank problems.
 |               [TimeConversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)               |      [TimeConversion.java](./src/main/java/problemSolving/TimeConversion.java)      |
 |                  [GradingStudents](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                   |     [GradingStudents.java](./src/main/java/problemSolving/GradingStudents.java)     |
 | [AppleAndOrange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) |      [AppleAndOrange.java](./src/main/java/problemSolving/AppleAndOrange.java)      |
+|                  [NumberLineJumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                  |     [NumberLineJumps.java](./src/main/java/problemSolving/NumberLineJumps.java)     |

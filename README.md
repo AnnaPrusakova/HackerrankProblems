@@ -18,3 +18,4 @@ Here are my solutions to Hackerrank problems.
 | [AppleAndOrange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) |      [AppleAndOrange.java](./src/main/java/problemSolving/AppleAndOrange.java)      |
 |                  [NumberLineJumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                  |     [NumberLineJumps.java](./src/main/java/problemSolving/NumberLineJumps.java)     |
 |     [BreakingTheRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)     |  [BreakingTheRecords.java](./src/main/java/problemSolving/BreakingTheRecords.java)  |
+|             [SubarrayDivision](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)              |    [SubarrayDivision.java](./src/main/java/problemSolving/SubarrayDivision.java)    |
